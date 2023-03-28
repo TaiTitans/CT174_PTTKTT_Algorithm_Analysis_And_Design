@@ -10,7 +10,7 @@ CT174_CTU_Phan_Tich_Va_Thiet_Ke_Thuat_Toan
 ---
 - [Buổi 1](https://github.com/TaiTitans/CT174_PTTKTT_Algorithm_Analysis_And_Design/blob/main/Buoi1/Buoi1.md)
 ---
-### ⛔Luu Y: 
+### ⛔Lưu Ý: 
 - Phải thay đổi đường dẫn data.txt
 - Sử dụng Website : visualgo.net để dễ hình dung thuật toán.
 ---
