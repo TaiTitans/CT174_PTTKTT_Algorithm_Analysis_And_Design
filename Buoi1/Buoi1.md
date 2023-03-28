@@ -208,7 +208,7 @@ void print_Data(recordtype a[], int n){
 ```
 ---
 
-##Thuật toán QuickSort
+## Thuật toán QuickSort
 
 ![image](https://user-images.githubusercontent.com/70010376/228143194-4c88440f-8e6d-410b-aee8-3a2f8a1c3d96.png)
 
