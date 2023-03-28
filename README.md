@@ -23,5 +23,5 @@ CT174_CTU_Phan_Tich_Va_Thiet_Ke_Thuat_Toan
 - [Session 1](https://github.com/TaiTitans/CT174_PTTKTT_Algorithm_Analysis_And_Design/blob/main/Buoi1/Buoi1.md)
 ---
 ### ⛔Note: 
-- Must change the data file path.txt
+- Must change the data file data.txt
 - Use the website: visualgo.net easy to visualize the algorithm.
